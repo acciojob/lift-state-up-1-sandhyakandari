@@ -1,1 +1,6 @@
-
+.main{
+    background-color: blueviolet;
+}
+.child{
+    background-color: brown;
+}
